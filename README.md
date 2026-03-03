@@ -9,7 +9,9 @@ This project was created as a part of my YouTube tutorial to showcase the use of
 - The Automation: How to use the create-skill tool to build your own custom skills in seconds.
 - The Safety Warning: A critical look at security and how to protect yourself from prompt injection.
 
-Tutorial
+## Tutorial Video
+
+[![Tutorial](https://img.youtube.com/vi/tTot7u7Sgtk/maxresdefault.jpg)](https://www.youtube.com/watch?v=tTot7u7Sgtk)
 
 ## Features
 - Hero section with clear value proposition and primary CTA
